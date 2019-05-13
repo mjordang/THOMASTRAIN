@@ -20,4 +20,4 @@ Execution steps
 Assumptions
 - Only 5 cities (A,B,C,D,E) have trains station and not more
 - The availabe routes are only the named in the statement of the exercise:AB5, BC4, CD8, DC8, DE6, AD5, CE2, EB3, AE7
-- The user has to indicate the complete route route(including all cities) using "-" character between towns if not an error is reported in the process
+- The user has to indicate the complete route(including all cities) using "-" character between towns if not an error is reported in the process
