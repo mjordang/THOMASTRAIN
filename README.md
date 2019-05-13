@@ -4,9 +4,9 @@ Trains tracking
 
 Execution steps
 
-1.- Open home/THOMASTRAIN/EXECUTION folder and copy the  files thomas_train-0.0.1-SNAPSHOT.jar and run_thomas_the_train.bat in a local folder in your computer
+1. - Open home/THOMASTRAIN/EXECUTION folder and copy the  files thomas_train-0.0.1-SNAPSHOT.jar and run_thomas_the_train.bat in a local folder in your computer
 
-2.- Editing the bat file it is possible to see the execution command java -Dorg.apache.cxf.Logger=org.apache.cxf.common.logging.Slf4jLogger -jar thomas_train-0.0.1-SNAPSHOT.jar A-E-D with the selected route to calculate as a 	parameter, in order to run the test with several rutes change accordingly the route.
+2. - Editing the bat file it is possible to see the execution command java -Dorg.apache.cxf.Logger=org.apache.cxf.common.logging.Slf4jLogger -jar thomas_train-0.0.1-SNAPSHOT.jar A-E-D with the selected route to calculate as a 	parameter, in order to run the test with several rutes change accordingly the route.
 
 3. - Execute the bat file
 
