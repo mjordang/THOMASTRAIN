@@ -12,7 +12,7 @@ Execution steps
 
 4. - In the console opened will appear the result of the execution with messages informing about the calculation of route distance:
 		=============== The distance of your route is:#number =============== or
-		========================= NO SUCH ROUTE'. Please use the most direct route and do not make any extra stops  =========================
+		========================= NO SUCH ROUTE. Please use the most direct route and do not make any extra stops  =========================
 
     in addition to other message about the steps in the process execution.
 	
